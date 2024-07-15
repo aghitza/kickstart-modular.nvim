@@ -30,6 +30,8 @@ return {
         tex = { 'latexindent' },
         bib = { 'bibtex-tidy' },
         html = { 'prettier' },
+        htmldjango = { 'djlint' },
+        jinja = { 'djlint' },
         css = { 'prettier' },
         md = { 'prettier' },
         yaml = { 'prettier' },
